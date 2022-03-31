@@ -42,30 +42,31 @@ and answering their questions.
 
 ### Are there any specific responsibilies?
 
-We don't want team membership to
-be a big burden (many of us have one or more other jobs too!) but there are
-a few things that you should do as a new member:
+We don't want team membership to be a big burden (many of us have one or more
+other jobs too!) but there are a few things that you should do as a new member:
 
 1. **"Watch" the [`team-compass` repository]({{cookiecutter.compass_repo}})**
    so that you're notified when team conversations are happening.
-2. **Stay up-to-date on team meetings**. You can find a notes from previous meetings pinned at
-   the [top of the `team-compass` issues page]({{cookiecutter.compass_repo}}/issues).
-3. **Vote**. Participate in at least 2/3 of votes happening in the team-compass repo. You should be automatically pinged on GitHub when a vote is called.
-4. **Let us know if you'll be unavailable** or out of town for an extended period
-   of time. It's no problem if you need to focus on other things for a bit, but it's
-   helpful for the team to know who will be around.
-   If it's something you'd rather not mention to the public then
-   send an email to one of the team members letting them know, and they
-   can communicate it to the others.
+2. **Stay up-to-date on team meetings**. You can find a notes from previous
+   meetings pinned at the
+   [top of the `team-compass` issues page]({{cookiecutter.compass_repo}}/issues).
+3. **Vote**. Participate in at least 2/3 of votes happening in the team-compass
+   repo. You should be automatically pinged on GitHub when a vote is called.
+4. **Let us know if you'll be unavailable** or out of town for an extended
+   period of time. It's no problem if you need to focus on other things for a
+   bit, but it's helpful for the team to know who will be around. If it's
+   something you'd rather not mention to the public then send an email to one of
+   the team members letting them know, and they can communicate it to the
+   others.
 5. **Foster open and inclusive discussion**. As a team member, you are
-   responsible for ensuring that conversation in our communities is positive
-   and inclusive. Open public issues to discuss things with the team. Try to
-   do most communication in public spaces where others can join, or
-   report back to team members if important conversations happened offline.
-   When creating issues, provide enough context so that others can understand
-   and provide their input. Encourage feedback and input from others
-   often, and be patient when merging code - it is almost better to
-   wait a bit for an approval than to self-merge.
+   responsible for ensuring that conversation in our communities is positive and
+   inclusive. Open public issues to discuss things with the team. Try to do most
+   communication in public spaces where others can join, or report back to team
+   members if important conversations happened offline. When creating issues,
+   provide enough context so that others can understand and provide their input.
+   Encourage feedback and input from others often, and be patient when merging
+   code - it is almost always better to wait a bit for an approval than to
+   self-merge.
 
 ## When should I merge a pull request?
 
@@ -77,9 +78,9 @@ Having merge rights is both a privilege and a responsibility - please be
 thoughtful when using it! To that extent, here are a few guidelines when
 deciding to merge things into one of our repositories:
 
-* **Use your best judgment**. As a member of the {{cookiecutter.team_name}} Council, we trust
-  your judgment, and we ask you to use your best judgment in deciding when to
-  take an action.
+* **Use your best judgment**. As a member of the {{cookiecutter.team_name}}
+  Council, we trust your judgment, and we ask you to use your best judgment in
+  deciding when to take an action.
 * **Make sure it's quality code**. We know this is somewhat subjective, but
   ensure that the code is well-organized and thoughtfully-written, that any
   new features are documented, and that it abides by best-practices in Python,
